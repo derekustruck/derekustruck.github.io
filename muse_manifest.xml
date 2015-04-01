@@ -1,7 +1,7 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1427872314267">
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1427874573494">
   <folder name="css">
     <file name="site_global.css" crc="3973054971"/>
-    <file name="master_a-master.css" crc="4067169127" ref="index:bio:contact"/>
+    <file name="master_a-master.css" crc="439520622" ref="index:bio:contact"/>
     <file name="index.css" crc="4157270427" ref="index"/>
     <file name="bio.css" crc="4006324262" ref="bio"/>
     <file name="contact.css" crc="3976809086" ref="contact"/>
@@ -26,7 +26,7 @@
     <file name="unnamed-2.jpg" crc="486815326" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:bio:contact"/>
     <file name="loading.gif" crc="3815509949" ref="index:bio:contact"/>
-    <file name="u305-6.png" crc="109768416" ref="index"/>
+    <file name="u305-6.png" crc="499713764" ref="index"/>
     <file name="unnamed.jpg" crc="477818831" ref="bio"/>
     <file name="road.jpg" crc="180693847" ref="bio"/>
     <file name="trees.jpg" crc="4071309946" ref="bio"/>
@@ -37,7 +37,7 @@
     <file name="u435-17-fs.png" crc="4174176478" ref="contact"/>
     <file name="unnamed-3.jpg" crc="4107423290" ref="contact"/>
   </folder>
-  <file name="index.html" crc="532759334" mt="1427872180240" redirect="true"/>
-  <file name="bio.html" crc="3911686796" mt="1427872180240" redirect="true"/>
-  <file name="contact.html" crc="71949845" mt="1427872307854" redirect="true"/>
+  <file name="index.html" crc="3848413213" mt="1427874380315" redirect="true"/>
+  <file name="bio.html" crc="3911686796" mt="1427874316976" redirect="true"/>
+  <file name="contact.html" crc="4265740355" mt="1427874316976" redirect="true"/>
 </manifest>

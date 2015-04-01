@@ -3,16 +3,16 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	border-radius: 6px;
 	position: relative;
 }
 
 #u360
 {
-	background-color: #DFDFDF;
-	background-color: rgba(196,196,196,0.53);
+	background-color: #77B77A;
+	background-color: rgba(0,120,5,0.53);
+	border-radius: 10px 10px 0px 0px ;
 	position: relative;
-	-pie-background: rgba(196,196,196,0.53);
+	-pie-background: rgba(0,120,5,0.53);
 }
 
 #u360:hover
@@ -47,12 +47,29 @@
 	position: relative;
 }
 
+#u360:hover #u363-4
+{
+	background-color: #FFCDDF;
+	background-color: rgba(255,127,175,0.39);
+	border-radius: 10px 10px 0px 0px ;
+	-pie-background: rgba(255,127,175,0.39);
+}
+
+#u360:active #u363-4
+{
+	background-color: #FFCDDF;
+	background-color: rgba(255,127,175,0.39);
+	border-radius: 10px 10px 0px 0px ;
+	-pie-background: rgba(255,127,175,0.39);
+}
+
 #u353
 {
-	background-color: #DFDFDF;
-	background-color: rgba(196,196,196,0.53);
+	background-color: #77B77A;
+	background-color: rgba(0,120,5,0.53);
+	border-radius: 10px 10px 0px 0px ;
 	position: relative;
-	-pie-background: rgba(196,196,196,0.53);
+	-pie-background: rgba(0,120,5,0.53);
 }
 
 #u353:hover
@@ -86,6 +103,22 @@
 	position: relative;
 }
 
+#u353:hover #u355-4
+{
+	background-color: #FFCDDF;
+	background-color: rgba(255,127,175,0.39);
+	border-radius: 10px 10px 0px 0px ;
+	-pie-background: rgba(255,127,175,0.39);
+}
+
+#u353:active #u355-4
+{
+	background-color: #FFCDDF;
+	background-color: rgba(255,127,175,0.39);
+	border-radius: 10px 10px 0px 0px ;
+	-pie-background: rgba(255,127,175,0.39);
+}
+
 #u359,#u352,#u366
 {
 	background-color: transparent;
@@ -94,10 +127,11 @@
 
 #u369
 {
-	background-color: #DFDFDF;
-	background-color: rgba(196,196,196,0.53);
+	background-color: #77B77A;
+	background-color: rgba(0,120,5,0.53);
+	border-radius: 10px 10px 0px 0px ;
 	position: relative;
-	-pie-background: rgba(196,196,196,0.53);
+	-pie-background: rgba(0,120,5,0.53);
 }
 
 #u369:hover
@@ -129,6 +163,28 @@
 	text-align: center;
 	color: #FFFFFF;
 	position: relative;
+}
+
+#u369:hover #u372-4
+{
+	background-color: #FFCDDF;
+	background-color: rgba(255,127,175,0.39);
+	border-radius: 10px 10px 0px 0px ;
+	-pie-background: rgba(255,127,175,0.39);
+}
+
+#u369:active #u372-4
+{
+	background-color: #FFCDDF;
+	background-color: rgba(255,127,175,0.39);
+	border-radius: 10px 10px 0px 0px ;
+	-pie-background: rgba(255,127,175,0.39);
+}
+
+#u360.MuseMenuActive #u363-4,#u353.MuseMenuActive #u355-4,#u369.MuseMenuActive #u372-4
+{
+	background-color: transparent;
+	border-radius: 0px;
 }
 
 .MenuItem /* unifiedNavBar */
